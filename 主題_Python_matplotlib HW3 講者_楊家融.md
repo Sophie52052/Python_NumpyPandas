@@ -1,4 +1,5 @@
 # 主題:Python/matplotlib HW3 講者:楊家融
+###### tags: `Python` `Matplotlib` `Numpy`
 
 ```
 import numpy as np
