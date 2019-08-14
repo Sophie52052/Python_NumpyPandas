@@ -1,4 +1,5 @@
 # 主題:Python/pandas HW2 講者:楊家融
+###### tags: `Python` `Pandas` `Numpy`
 
 Q1.Why we should avoid using itertuples?
 
